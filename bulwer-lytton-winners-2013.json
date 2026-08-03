@@ -1,0 +1,812 @@
+{
+  "$schema": "./bulwer-lytton-schema.json",
+  "year": 2013,
+  "source": {
+    "url": "https://www.bulwer-lytton.com/2013",
+    "file": "www_bulwer-lytton_com/2013.html",
+    "pageTitle": "2013 Winners | The Bulwer-Lytton Fiction Contest"
+  },
+  "categories": [
+    {
+      "name": "Grand Prize",
+      "entries": [
+        {
+          "award": "Grand Prize",
+          "text": "She strutted into my office wearing a dress that clung to her like Saran Wrap to a sloppily butchered pork knuckle, bone and sinew jutting and lurching asymmetrically beneath its folds, the tightness exaggerating the granularity of the suet and causing what little palatable meat there was to sweat, its transparency the thief of imagination.",
+          "authors": [
+            {
+              "name": "Chris Wieloch",
+              "location": "Brookfield, WI",
+              "city": "Brookfield",
+              "region": "WI"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grand Panjandrum's Special Award",
+      "entries": [
+        {
+          "award": "Grand Panjandrum's Special Award",
+          "text": "“Don’t know no tunnels hereabout,” said the old-timer, “unless you mean the abandoned subway line that runs from Hanging Hill, under that weird ruined church, beneath the Indian burial ground, past the dilapidated Usher mansion, and out to the old abandoned asylum for the criminallyinsane where they had all those murders.”",
+          "authors": [
+            {
+              "name": "Lawrence Person",
+              "location": "Austin, TX",
+              "city": "Austin",
+              "region": "TX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adventure",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "“I told you to wear sensible shoes, but no, your vanity would not allow it!” he yelled at me as if that had something to do with the airplane crashing into the jungle and all the bodies draped in the trees, but it was just the sort of nonsense I was used to from him, making me wish one or the other of us was hanging dead above us, instead of Rodney.",
+          "authors": [
+            {
+              "name": "Oliver Mauser",
+              "location": "Jacksonville, FL",
+              "city": "Jacksonville",
+              "region": "FL"
+            }
+          ]
+        },
+        {
+          "award": "Runner Up",
+          "text": "As the sun dropped below the horizon, the safari guide confirmed the approaching cape buffaloes were herbivores, which calmed everyone in the group, except for Herb, of course.",
+          "authors": [
+            {
+              "name": "Ron D Smith",
+              "location": "Louisville, KY",
+              "city": "Louisville",
+              "region": "KY"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mention",
+          "text": "It was a tricky situation, given the complex behavioral instincts of the Lowland Gorilla, and this accidental group encounter with a silver-backed dominant male was taxing Professor Wiesenheimer’s knowledge of interspecies primate interaction to the limit, yet confidently and without hesitation, he turned to his startled pupils and whispered, “Run like Hell.”",
+          "authors": [
+            {
+              "name": "Mark Watson",
+              "location": "Raleigh, NC",
+              "city": "Raleigh",
+              "region": "NC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crime & Detective",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "It was such a beautiful night; the bright moonlight illuminated the sky, the thick clouds floated leisurely by just above the silhouette of tall, majestic trees, and I was viewing it all from the front row seat of the bullet hole in my car trunk.",
+          "authors": [
+            {
+              "name": "Tonya Lavel",
+              "location": "Barbados, West Indies",
+              "city": "Barbados",
+              "region": "West Indies"
+            }
+          ]
+        },
+        {
+          "award": "Runner Up",
+          "text": "Seeing Mrs. Kohler sink, Detective Moen flushed as he plugged the burglary as the unmistakable work of Cap Fawcet, the Mad Plumber, for not only had her pool of assets been drained, but her clogs were now missing, and the toilet had been removed, leaving them with absolutely nothing to go on.",
+          "authors": [
+            {
+              "name": "Eric J Hildemen",
+              "location": "Greenfield, WI",
+              "city": "Greenfield",
+              "region": "WI"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "This was a very easy mystery for me to solve, so I never considered putting it in a story until I was telling some friends about it, and I realized the average person, such as yourself, has trouble figuring it out, although it is really laughably simple.",
+          "authors": [
+            {
+              "name": "Thor F. Carden",
+              "location": "Madison, TN",
+              "city": "Madison",
+              "region": "TN"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Observing how the corpse’s blood streaked the melting vanilla ice cream, Frank wanted to snap his pen in half and add drops of blue ink to the mix, completing the color trio of the American flag – or the French flag, given that the body had just fallen from the top of the Las Vegas Eiffel Tower onto a crème glacée cart.",
+          "authors": [
+            {
+              "name": "Alanna Smith",
+              "location": "Wappingers Falls, NY",
+              "city": "Wappingers Falls",
+              "region": "NY"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "The dame was stacked, both conventionally and in that she was the third of five bodies piled against the wall, the wall’s earth tones reminding me of Grandmother’s house, which figured since it was her house, she having stacked the bodies there after poisoning them, so I studied the bodies as I munched on Grandmother’s ginger snaps and felt a twinge in my stomach.",
+          "authors": [
+            {
+              "name": "Kenneth Bennight",
+              "location": "San Antonio, TX",
+              "city": "San Antonio",
+              "region": "TX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Horror",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "Even though Letitia had brushed her teeth, Draco could still smell her garlicky breath, but assuming her blood would at least be toxin free, if not particularly appetizing—because of the antibiotic properties of the garlic’s allicin, an organosulfur compound—he gleefully plunged his incisors into her throbbing jugular vein.",
+          "authors": [
+            {
+              "name": "Maggie Lyons",
+              "location": "Callao, VA",
+              "city": "Callao",
+              "region": "VA"
+            }
+          ]
+        },
+        {
+          "award": "Runner Up",
+          "text": "Count Glandula’s castle flickered with eerie lights, where the immortal villain slaked his evil thirst in the dungeons with innocent victims—two moldy old peasants because the virtuous maidens had all been taken by the hot teenaged vampires down the road whose breath wasn’t so icky.",
+          "authors": [
+            {
+              "name": "Janine Beacham",
+              "location": "Busselton WA, Australia",
+              "city": "Busselton WA",
+              "region": "Australia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Historical Fiction",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "The Pilgrims and Native Americans gathered around the feast, a veritable cornucopia of harvest and game, a gastronomic monument to the bountiful biodiversity of the land, and while Mrs. Standish’s cranberry sauce was a far cry from the homogeneous gelatinous can-imprinted sacrosanct blob which has become the holiday’s sine qua non, the rest of the food was good.",
+          "authors": [
+            {
+              "name": "Jordan Kaderli",
+              "location": "Dallas, TX",
+              "city": "Dallas",
+              "region": "TX"
+            }
+          ]
+        },
+        {
+          "award": "Runner Up",
+          "text": "It was a long shot by any measure, good bowman though he was, and he didn’t want to risk it with his kid, but a lot was on the line, and that big, red apple was square on his dear boy’s head, and he had to shoot it off … then everything went still, and William Tell heard the sound of music, quiet, then gently rising, like an overture.",
+          "authors": [
+            {
+              "name": "John Holmes",
+              "location": "St. Petersburg, FL",
+              "city": "St. Petersburg",
+              "region": "FL"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mention",
+          "text": "General Lee arranged for the dreaded surrender, yet capitalized on his opponents’ weaknesses to the very end, striking a tiny parting blow for the Army of Northern Virginia (chuckling to himself) as he remembered from Academy days how many Union commanders had struggled with spelling even common words, and so ran his finger along the map and settled on Appomattox.",
+          "authors": [
+            {
+              "name": "Randal Pilz",
+              "location": "Milton, FL",
+              "city": "Milton",
+              "region": "FL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fantasy",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "The fairies of Minglewood, which is near Dingly Pool, were having a grand revel with flower-cakes, and butterfly dances, looking ever so pretty, while Queen Bellaflora swept her wand o’er the waterfall’s foam, making it pop like the snot-bubbles on your baby sister’s face.",
+          "authors": [
+            {
+              "name": "Janine Beacham",
+              "location": "Busselton, WA, Australia",
+              "city": "Busselton",
+              "region": "WA, Australia"
+            }
+          ]
+        },
+        {
+          "award": "Runner Up",
+          "text": "There once was a nasty, evil troll who lived beneath a bridge and took pleasure in collecting gold from the unsuspecting users of the infrastructure; however, no one used the bridge because an evil troll lived under it so the troll didn’t do much of anything.",
+          "authors": [
+            {
+              "name": "Rachel Flanigan",
+              "location": "Honolulu, HI",
+              "city": "Honolulu",
+              "region": "HI"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mention",
+          "text": "This was going to be a science fiction novel until I realized that you actually have to know some real science for it to work well, so I changed it to a fantasy novel instead, because that way I can just make up the rules as I go, unhampered by the laws of physics or chemistry, as if you knew what they were anyway.",
+          "authors": [
+            {
+              "name": "Thor F. Carden",
+              "location": "Madison, TN",
+              "city": "Madison",
+              "region": "TN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Purple Prose",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "Before they met, his heart was a frozen block of ice, scarred by the skate blades of broken relationships, then she came along and like a beautiful Zamboni flooded his heart with warmth, scraped away the ugly slushy bits, and dumped them in the empty parking lot of his soul.",
+          "authors": [
+            {
+              "name": "Howie McLennon",
+              "location": "Ottawa, Canada",
+              "city": "Ottawa",
+              "region": "Canada"
+            }
+          ]
+        },
+        {
+          "award": "Runner Up",
+          "text": "He had a way with women that was at first endearing, then gradually engendered caution and finally outright rejection, like potato salad at a summer picnic.",
+          "authors": [
+            {
+              "name": "Paul Sutcliffe",
+              "location": "Pittsburgh, PA",
+              "city": "Pittsburgh",
+              "region": "PA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Mildred, sitting under the hair dryer at The Curl & Go and thumbing through a Victoria’s Secret catalogue, felt a shudder and a fleeting moment of commiseration when she saw those tiny thongs the models were sporting in the name of underwear because, as it happened, her own butt cheeks tended to gobble up her Fruit of the Loom For Mature Women white cotton panties like a pair of starving wolverines fighting over a flatfish.",
+          "authors": [
+            {
+              "name": "Helen Grainge",
+              "location": "Niagara-on-the-Lake, Ontario, Canada",
+              "city": "Niagara-on-the-Lake",
+              "region": "Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "There is a special pinkness to the sky as the sun rises on a crisp January morning, kissing the clouds, warming the fields, and waking the livestock, who move quietly to their feet and begin to mill about their pens, like patrons in a crowded theater lobby who, instead of waiting to see a show, are waiting to be made into steaks or bacon.",
+          "authors": [
+            {
+              "name": "Ward Willats",
+              "location": "Felton, CA",
+              "city": "Felton",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "When the slinky redhead slunk into the throbbing, strobe-lit nightclub, Elwood’s eyes fastened on her the way a toilet plunger will fasten onto a hard surface if you shove it down just right, but her returning glance, while smoldering, was actually more caustic and burned his tender ego the way liquid Drano can burn your hand if you spill some on it, having disregarded the manufacturer’s warning.",
+          "authors": [
+            {
+              "name": "Jeff Treder Springfield",
+              "location": "OR"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "The sharks circled the leaking life raft like a pack of rabid personal-injury attorneys at a five-car pileup, and Clarence could just taste the fear (which tasted like chicken) and wondered morbidly if he too, might taste like chicken.",
+          "authors": [
+            {
+              "name": "Wendi Tibbets",
+              "location": "San Jose, CA",
+              "city": "San Jose",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "He had a drink in his hand and a hole in his heart, a hole big enough to drive a Honda Odyssey minivan with satellite linked navigation and a multi-angle rearview camera down the anterior vena cava, execute a three-point-turn at the atrioventicular valve (thanks to the rear view camera), then exit the pulmonary artery without ever once scraping the Celestial Blue Metallic finish that comes standard on the EX-L.",
+          "authors": [
+            {
+              "name": "Mark Schweizer",
+              "location": "Tryon, NC",
+              "city": "Tryon",
+              "region": "NC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Romance",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "On their first date he’d asked how much she thought Edgar Allan Poe’s toe nails would sell for on eBay, and on their second he paid for subway fair with nickels he fished out of a fountain, but he was otherwise charming and she thought that they could have a perfectly tolerable life together.",
+          "authors": [
+            {
+              "name": "Jessica Sashihara",
+              "location": "Martinsville, NJ",
+              "city": "Martinsville",
+              "region": "NJ"
+            }
+          ]
+        },
+        {
+          "award": "Runner Up",
+          "text": "The day Anthony and Charlotta met was a special one, not merely because of the truly magical first encounter of the would-be lovers —they reached for the same pair of chopsticks at The Lucky Dragon’s all-you-can-eat Chinese food lunch buffet—but also because it wasthe day the lizard aliens came to earth and destroyed all of mankind with their poison gas bombs and acid catapults.",
+          "authors": [
+            {
+              "name": "Krista Holm",
+              "location": "Helsinki, Finland",
+              "city": "Helsinki",
+              "region": "Finland"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "While Dame Goodchild fondly watched Lord Peasebody’s innocent ward gaze admiringly after Eduardo de Abló, the china-blue eyes moving upwards from the ancestral sword banging lightly against taut thighs to the carelessly tied cravat framing a swarthy, cicatrized cheek above which black eyes half-hidden by untamed raven locks flashed in challenge and passion, she wondered if Elizabeth knew he got the scar from falling face-first onto his ostler’s manure rake.",
+          "authors": [
+            {
+              "name": "Margaret Stein",
+              "location": "Omaha, NE",
+              "city": "Omaha",
+              "region": "NE"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Her tepid tongue explored my mouth like a confused gopher, the tip giving way to the dorsum, its length and breadth tempting my pharyngeal reflex as no tongue had ever tempted my pharyngeal reflex, our passion alone holding back a filet of sole, pommes frites, and a superb Sauvignon Blanc.",
+          "authors": [
+            {
+              "name": "John J. White",
+              "location": "Merritt Island, FL",
+              "city": "Merritt Island",
+              "region": "FL"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "When Big Jim strode into the vertebrate lab, Rebecca’s blood froze, not exactly like that of the wood frog, Rana sylvatica, whose intercellular fluid fills with ice crystals, sparing the cells from harm, but now as she visualized its late winter mating frenzy, she felt both oddly desirable and unnaturally jumpy.",
+          "authors": [
+            {
+              "name": "Kathryn Nelson",
+              "location": "Toledo, OH",
+              "city": "Toledo",
+              "region": "OH"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "The patterns of our lives, like the weave of an oriental rug, the tans and reds, the thin silken threads, the thick woolen yarns, the cross weaves or the double hooks, and, yes, even the berber loops that are really out of style these days, sure are hard to figure sometimes.",
+          "authors": [
+            {
+              "name": "John Hardi",
+              "location": "Falls Church, VA",
+              "city": "Falls Church",
+              "region": "VA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Science Fiction",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "The Mushroom Men of Knarf were silently advancing on the unsuspecting earthlings, and their thin milky blood ran colder when they smelled spores from fungal toenail infections rising from many of the invaders’ feet, for to them it was a wondrous and shocking scent of kinship, homeland, and asexual reproduction.",
+          "authors": [
+            {
+              "name": "David S Nelson",
+              "location": "Falls Church VA"
+            }
+          ]
+        },
+        {
+          "award": "Runner Up",
+          "text": "David Q5XBT dipped a finger into the protein stream and absorbed the nutrients via his sub-molecular digital transponder, all the while wondering to himself what it must have been like in the pre-days when people used their mouths—shock! —for eating; their should be taut stomachs—ugh!—or something called digesting; and when finger food maybe meant chocolate, fish or— ark!—ingers!",
+          "authors": [
+            {
+              "name": "David S Nelson",
+              "location": "Falls Church VA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Quoxintia has it all: a diminutive Zylthusian mate with engorged turquoise pedipalps, thirty-three dutiful larvae ready to pupate any day, and more ensnared Xabridons than she could ever pierce and slowly exsanguinate over a period of weeks, but she doesn’t have love or, more fundamentally, the myelinated nervous system that makes complex emotions like love possible.",
+          "authors": [
+            {
+              "name": "Nate Renie",
+              "location": "Alameda, CA",
+              "city": "Alameda",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "“If you do not surrender to me by the stroke of midnight (Coordinated Universal Time) the Large Hadron Collider along with written and signed formal apology then I will reduce you, your planet, and your so called LHC’ to a fine saccharine flour; and then I will take that flour, mix it with milk and raisins and make scones which I will feed to ducks, and I’ll take their feathers and make a fantastic feather boa, and it will look stylish, so who’s laughing now?”",
+          "authors": [
+            {
+              "name": "Aishia Trueman",
+              "location": "Canberra, ACT, Australia",
+              "city": "Canberra",
+              "region": "ACT, Australia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vile Puns",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "What the Highway Department’s chief IT guy for the new computerized roadway hated most was listening to the ‘smart’ components complain about being mixed with asphalt instead of silicon and made into speed bumps instead of graceful vases, like the one today from chip J176: “I coulda had glass; I coulda been a container; I coulda been some bottle, instead of a bump, which is what I am.”",
+          "authors": [
+            {
+              "name": "Brian Brandt",
+              "location": "Lansdale, PA",
+              "city": "Lansdale",
+              "region": "PA"
+            }
+          ]
+        },
+        {
+          "award": "Runner Up",
+          "text": "Niles deeply regretted bringing his own equipment to the company’s annual croquet tournament because those were his fingerprints found on the “blunt instrument” that had caused the fatal depression in his boss’s skull and now here he stood in court accused of murder, yes, murder in the first degree with mallets aforethought.",
+          "authors": [
+            {
+              "name": "Linda Boatright",
+              "location": "Omaha, NE",
+              "city": "Omaha",
+              "region": "NE"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Mrs. Irene Bartlett was so taken with the account of the annihilation of Sodom and Gomorrah, and the transformational moment when Lot’s wife was miraculously turned into a pillar of salt, that she became a Shaker.",
+          "authors": [
+            {
+              "name": "John Holmes",
+              "location": "St. Petersburg, FL",
+              "city": "St. Petersburg",
+              "region": "FL"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "He spotted her as he left the Mudville baseball field, a handsome young woman sipping tea on the front porch swing of her house, and, though the boos and catcalls from today’s game still rang in his ears, the Mighty Casey decided that for the first time in his life he would not at all mind being associated with a swing and a Miss.",
+          "authors": [
+            {
+              "name": "Tom Wallace",
+              "location": "Columbia, SC",
+              "city": "Columbia",
+              "region": "SC"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Yes, mused Gerald, fine-tuning the layout of his seafood buffet, the Coquilles Saint-Jacques would look best among the plates of rock cod and (he had to admit it) the rather overcooked flatfish; yes, right there, he thought, that’s where the scallops should go: between a rock and a hard plaice.",
+          "authors": [
+            {
+              "name": "David Hynes",
+              "location": "Bromma, Sweden",
+              "city": "Bromma",
+              "region": "Sweden"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "It was a dark and stormy night when, in the course of being snoopy, I happened upon the most extraordinary dog—sitting at an old-school typewriter upon the roof of his doghouse—who grumbled that he was working for peanuts.",
+          "authors": [
+            {
+              "name": "Amy Torchinsky",
+              "location": "Greensboro, NC",
+              "city": "Greensboro",
+              "region": "NC"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Although it was late at night and the snow was gently falling, Martin, who had gathered the young maidens together in the village church and was now, at the stroke of midnight, leading them across the town square, responded to the town constable’s enquiry as to what he was doing by replying, “I herd the belles on Christmas Day.”",
+          "authors": [
+            {
+              "name": "Jim Tweedie",
+              "location": "Long Beach, WA",
+              "city": "Long Beach",
+              "region": "WA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Serena thought bitterly of the ironic juxtaposition of her name and her life, which had changed irrevocably, and for all eternity, on that fateful day when her serenity was punctured by the manly lance of that knight in shiny Armani.",
+          "authors": [
+            {
+              "name": "Stan McConnell",
+              "location": "Rancho Palos Verdes, CA",
+              "city": "Rancho Palos Verdes",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "It wasn’t sour grapes—Clementine knew that her parents just plum disapproved of her Kiwi lover; try as she might to explain that the love between the pair was all peachy, she might as well have been comparing apples to oranges, so although she was bananas for him, and the ring was certainly no lemon, she was forced to reply to his “Honey, do you?” with a mournful “You know I just can’t elope.”",
+          "authors": [
+            {
+              "name": "Kevin Hogg",
+              "location": "Cranbrook, BC, Canada",
+              "city": "Cranbrook",
+              "region": "BC, Canada"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "The veterinarian had suggested the tasty yellow fruit as a way to cure the undiagnosed lack of appetite that was ebbing away the very life of his fluffy little friend and Mark was fraught with anguish as he kept wondering, “Will a chick eat a banana?”",
+          "authors": [
+            {
+              "name": "Nancy Hoffman",
+              "location": "Peaks Island, ME",
+              "city": "Peaks Island",
+              "region": "ME"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "When working-class Rosalind had been turned into a frog herself after kissing the enchanted Prince, she and her anguished croaking were shown on countless newsreels worldwide; and even decades after her “15 minutes of fame” had lapsed the problem of upward mobility for working women is still commonly demonstrated by invoking Rosie the Ribbitter.",
+          "authors": [
+            {
+              "name": "John Cavanagh",
+              "location": "Deer Island, OR",
+              "city": "Deer Island",
+              "region": "OR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Western",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "“Ahgonagedoo, oosdiggingsuine!!!” screamed Jake Calhoun; but Doc Holliday, the legendary gunfighter/dentist, replied simply, “Smile when you say that, pardner, then swirl and spit out.”",
+          "authors": [
+            {
+              "name": "John Cavanagh",
+              "location": "Deer Island, OR",
+              "city": "Deer Island",
+              "region": "OR"
+            }
+          ]
+        },
+        {
+          "award": "Runner Up",
+          "text": "Tex sauntered into the saloon, tipped his hat towards Miss Kitty seated at the bar, and drawled, “I’ve been excogitatin’, and we don’t take kindly to no loquacious sesquipedalians ‘round these parts, lessin’ they be indigenous”—and with that, subsequently shot dead the visiting chatty professor of English standing next to her.",
+          "authors": [
+            {
+              "name": "Rick Cheeseman",
+              "location": "Waconia, MN",
+              "city": "Waconia",
+              "region": "MN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Odious Outliers",
+      "entries": [
+        {
+          "award": "Odious Outliers",
+          "text": "“I have always found character introductions at the beginning of novels to be a rather clunky literary device,” said Edmond Wordswell of Liston Street, Cambridge, a 39-year-old tax attorney and sufferer of severe lactophobia, the tragic result of having been abandoned in an empty milk bottle carrier as an infant.",
+          "authors": [
+            {
+              "name": "Sarah Harper",
+              "location": "Silver Spring, MD",
+              "city": "Silver Spring",
+              "region": "MD"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "Dark and stormy was her disposition; her hair cascaded evenly onto her shoulders in torrents—except at intervening occasions, when it was checked by a violent gust of air from a huge blower (for it is in Hollywood that our scene lies), rattling along her blouse top, and fiercely agitating the scanty fabric that struggled against her implants.",
+          "authors": [
+            {
+              "name": "Lee Martinson",
+              "location": "Yucaipa, CA",
+              "city": "Yucaipa",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "The dame that walked into my office was statuesque and looked like she ought to be standing on a bed of roses … in other words, she looked exactly like the garden gnome my ex-wife had stuck in our flower bed, next to a bird bath that attracted a whole lot of bills, much like my in-tray, which was lousy with them.",
+          "authors": [
+            {
+              "name": "Jackie Fuchs",
+              "location": "Los Angeles, CA",
+              "city": "Los Angeles",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "It was amidst the chaos of the Loma Prieta tectonic plate shift, while sipping sassafras floats at opposite ends of a busy ice cream bar when, in a serendipitous happenstance of synchronicity, the cranial plates of Laura and Earl also shifted, sending their ocular prosthetics tumbling to the floor where they rolled and rolled until their eyes met across the crowded room.",
+          "authors": [
+            {
+              "name": "Guy Foisy",
+              "location": "Orleans, Ontario, Canada",
+              "city": "Orleans",
+              "region": "Ontario, Canada"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "Todd didn’t think he would ever be able to love another woman the way he had loved Lily, but he was really eager to try.",
+          "authors": [
+            {
+              "name": "John Glenn",
+              "location": "Tyler, TX",
+              "city": "Tyler",
+              "region": "TX"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "To Juliet’s mind, he was just a small town Romeo, and—bummer—a Capulet to boot, but the men pickings in Verona were slim, so even though her daddy would have a cat, she decided, “What’s the worst that could happen?”",
+          "authors": [
+            {
+              "name": "John Hardi",
+              "location": "Falls Church, VA",
+              "city": "Falls Church",
+              "region": "VA"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "Tony was unsure if the voice had said, “Sven” or “Ten,” but, as no one had ever called him Sven, and the ceiling lights were shining directly into his eyes, and, recognizing the familiar sad, yet concerned, look on the referee’s face—he was gonna go with “Ten.”",
+          "authors": [
+            {
+              "name": "Warren Blair",
+              "location": "Ashburn, VA",
+              "city": "Ashburn",
+              "region": "VA"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "The dark, drafty old house was lopsided and decrepit, leaning in on itself, the way an aging possum carrying a very heavy, overcooked drumstick in his mouth might list to one side if he were also favoring a torn Achilles tendon, assuming possums have them.",
+          "authors": [
+            {
+              "name": "Shethra Jones-Hoopes",
+              "location": "Conestoga, PA",
+              "city": "Conestoga",
+              "region": "PA"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "Daphne had thoroughly researched the subject and concluded that, by all accounts, the medical procedure for reducing the size of her ample derriere was relatively safe but—and it is a big ’but’ —she understood there is always an inherent risk involving any surgery.",
+          "authors": [
+            {
+              "name": "Clay Wach",
+              "location": "Winnipeg, Canada",
+              "city": "Winnipeg",
+              "region": "Canada"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "Betty had eyes that said come here, lips that said kiss me, arms and torso that said hold me all night long, but the rest of her body said, “Fillet me, cover me in cornmeal, and fry me in peanut oil”; romance wasn’t easy for a mermaid.",
+          "authors": [
+            {
+              "name": "Jordan Kaderli",
+              "location": "Dallas, TX",
+              "city": "Dallas",
+              "region": "TX"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "Derek squeezed through the narrow entrance past irate piles at the bar and pushed deeper into the tight, dark saloon, and brushing aside a stool and settling between ornaments that hung like polyps from the ceiling, he examined the texture of the walls with his fingertips while trying to avoid the gaze of the owner; the perfect bar, he mused, for the socially awkward proctologist.",
+          "authors": [
+            {
+              "name": "Max Walker",
+              "location": "Bryn Mawr, PA",
+              "city": "Bryn Mawr",
+              "region": "PA"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "The sunset was like a golden pouring of honey that you find in those breakfast jars in good class hotels, some of which ends up on the linen table cloth, the colour of cirrostratus clouds before they have been sunset-soaked.",
+          "authors": [
+            {
+              "name": "John O’Byrne",
+              "location": "Dublin, Ireland",
+              "city": "Dublin",
+              "region": "Ireland"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "Our tale begins with the encounter of two gentlemen; I’m going to describe the second gentleman first.",
+          "authors": [
+            {
+              "name": "Mark Donnelly",
+              "location": "Co. Wicklow, Ireland",
+              "city": "Co. Wicklow",
+              "region": "Ireland"
+            }
+          ]
+        },
+        {
+          "award": "Odious Outliers",
+          "text": "Jump to:",
+          "authors": [
+            {
+              "name": "Join our mailing list"
+            }
+          ]
+        }
+      ],
+      "misc": "to get our yearly announcement"
+    }
+  ]
+}

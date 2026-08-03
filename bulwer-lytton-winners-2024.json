@@ -1,0 +1,810 @@
+{
+  "$schema": "./bulwer-lytton-schema.json",
+  "year": 2024,
+  "source": {
+    "url": "https://www.bulwer-lytton.com/2024",
+    "file": "www_bulwer-lytton_com/2024.html",
+    "pageTitle": "2024 Winners | The Bulwer-Lytton Fiction Contest"
+  },
+  "categories": [
+    {
+      "name": "Grand Prize",
+      "entries": [
+        {
+          "award": "Grand Prize",
+          "text": "She had a body that reached out and slapped my face like a five-pound ham-hock tossed from a speeding truck.",
+          "authors": [
+            {
+              "name": "Lawrence Person",
+              "location": "Austin, TX",
+              "city": "Austin",
+              "region": "TX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Grand Panjandrum's Special Award",
+      "entries": [
+        {
+          "award": "Grand Panjandrum's Special Award",
+          "text": "Mrs. Higgins’ body was found in the pantry, bludgeoned with a potato ricer and lying atop a fifty-pound sack of Yukon golds, her favorite for making gnocchi, though some people consider them too moist for this purpose.",
+          "authors": [
+            {
+              "name": "Joel Phillips",
+              "location": "West Trenton, NJ",
+              "city": "West Trenton",
+              "region": "NJ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adventure",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "As Nils Nordgrund struggled mightily treading water to stay afloat, while grimly watching from a distance the Norwegian oil tanker he captained slowly sink in the treacherously dark and stormy seas off Murmansk—he gave no thought to whether the Giants had any chance at a pennant win this year.",
+          "authors": [
+            {
+              "name": "Rex Allen",
+              "location": "San Rafael, CA",
+              "city": "San Rafael",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "It had seemed a good idea at the time, the first night of my two-week all-inclusive vacation, spent with an affable stranger in a tapas bar oiled by an excess of Corona Extra and tequila shots, but now, in fancy dress holding a red cape, under a pitiless noonday sun, while 1000 pounds of snorting horned beefsteak eyed me malevolently, hoofing a hole in the dirt, the packed spectators oléing for all their worth, I, a junior sales rep in kitchen utensils from Milwaukee, wasn’t so sure.",
+          "authors": [
+            {
+              "name": "David Hynes",
+              "location": "Bromma, Sweden",
+              "city": "Bromma",
+              "region": "Sweden"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "As he mustered the platoon for another patrol on a moonlit Mekong night, Lieutenant John “Hoseman” Walker, Jr., USMC, remembered what his dad—a fellow devildog who survived the previous generation’s island-hopping campaign against Japan that had sealed the Corps’s legend—had told him as he shipped out from Coronado fourteen months earlier: son, when you’re a Marine, rank is what you smell, not what you pull.",
+          "authors": [
+            {
+              "name": "G. Andrew Lundberg",
+              "location": "Los Angeles, CA",
+              "city": "Los Angeles",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "However unlikely an event, Lucy’s flight had made a water landing, and as she clutched her seat cushion, which was useable as a flotation device, she waited patiently for the lifeboats to pick up first the Plutonium-class members, active service personnel, parents traveling with small children, and those passengers with special needs.",
+          "authors": [
+            {
+              "name": "Joel Phillips",
+              "location": "West Trenton, NJ",
+              "city": "West Trenton",
+              "region": "NJ"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "The grappling hook caught, and Dirk hoisted himself hand-over-hand to the balcony, where to his surprise stood Dr. Darpa, a banana sandwich in one hand and a Smith & Wesson Bodyguard M&P 380 in the other—a pistol more suited to the delicate hand of a femme fatale, he thought—though he kept this observation to himself.",
+          "authors": [
+            {
+              "name": "Joel Phillips",
+              "location": "West Trenton, NJ",
+              "city": "West Trenton",
+              "region": "NJ"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "He was an old man who fished alone in a skiff in the Gulf Stream, and he had gone eighty-four days now without taking a fish, but as fish tend to live in the sea rather than in a skiff, he really had only himself to blame.",
+          "authors": [
+            {
+              "name": "Sam Wallington",
+              "location": "London, England",
+              "city": "London",
+              "region": "England"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crime & Detective",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "She was poured into the red latex dress like Jello poured into a balloon, almost bursting at the seams, and her zaftig shape was awesome to behold, but I knew from the look on her face and the .45 she held pointing at me, that this was no standard client of my detective agency, but a new collection agency tactic to get me to pay my long-overdue phone bill.",
+          "authors": [
+            {
+              "name": "Jack Harnly",
+              "location": "Sarasota, FL",
+              "city": "Sarasota",
+              "region": "FL"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Magnus was in a tough spot...the Icelandic Police were pressing him to cough up the name of the top capo in each of the 3 main cities in which the Mafia operated—Reykjavik, Akureyri, and Middelf—threatening to lock him away for life if he didn't, but he knew that if he ratted out the Reykjavikingur or the Akureyringur the Mob would kill him for sure—so he just gave them the Middelfingur.",
+          "authors": [
+            {
+              "name": "Mark Meiches",
+              "location": "Dallas, TX",
+              "city": "Dallas",
+              "region": "TX"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "That sweltering Friday evening she not so much walked but slithered into my shabby strip mall P.I. office, showing off all her curves, and I knew then I was in for a weekend of trouble because Dave’s Reptile Emporium next door, from which the ball python had escaped, was closed until Monday.",
+          "authors": [
+            {
+              "name": "Douglas Purdy",
+              "location": "Roseville, CA",
+              "city": "Roseville",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Staring unblinkingly into the pleading, tear-filled eyes of yet another dame looking for me to solve all her problems, I sighed, stretched, scratched my whiskers, stuck my hind leg in the air and bent my spine at a 45-degree angle to reach down and lick my butt clean, then donned my fedora—Taco, Cat Detective, was officially on the case.",
+          "authors": [
+            {
+              "name": "Gwen Simonalle",
+              "location": "Grenoble, France",
+              "city": "Grenoble",
+              "region": "France"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dark & Stormy",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "It was a dark and stormy night, or more specifically, a Tuesday afternoon in Ireland.",
+          "authors": [
+            {
+              "name": "Owen Roherty",
+              "location": "Colborne, Canada",
+              "city": "Colborne",
+              "region": "Canada"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "It was a dark and stormy night, which makes perfect sense when you realize we’re on Neptune, with a mean distance from the Sun of 4.5 billion kilometers (or 30 astronomical units), and winds that howl at 100 meters per second, composed of mostly hydrogen and helium (and only trace amounts of methane), which is way better than Uranus, which stinks to high heaven.",
+          "authors": [
+            {
+              "name": "Jon A. Bell",
+              "location": "Porto, Portugal",
+              "city": "Porto",
+              "region": "Portugal"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "“It’s a dark and stormy night, ladies and gentlemen, just the perfect atmosphere for the Monsters’ Ball, and look, here comes Mr. and Mrs. Dracula, both looking quite debonair and mysterious, and there’s Frank, the big guy himself, his neck bolts glinting during the lightning flashes, but I do have one piece of bad news and that is we probably won’t be seeing the werewolf tonight because, after all, it is a dark and stormy night.”",
+          "authors": [
+            {
+              "name": "Randy Blanton",
+              "location": "Murfreesboro, TN",
+              "city": "Murfreesboro",
+              "region": "TN"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "It was a dark and stormy roast; the baristas filled the cups in black torrents—except at occasional intervals when customers asked for non-fat milk (for it is Starbucks where our scene lies) or perhaps pumpkin spice, their faces puckered at the bitterness, the inflated prices, and the unspoken obligation to tip.",
+          "authors": [
+            {
+              "name": "Judd Hampton",
+              "location": "Grimshaw, Canada",
+              "city": "Grimshaw",
+              "region": "Canada"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "It was a bright and sunny day; the heat beat down, with some relief from passing clouds which drifted gently across the sky (for it is in Southern California where our narrative takes place), bouncing off the rooftop solar panels and inciting the anger of passing conservatives continuing to deny the reality of climate change.",
+          "authors": [
+            {
+              "name": "Mary Laiuppa",
+              "location": "San Diego, CA",
+              "city": "San Diego",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "It was a dark and stormy night; the cats fell in torrents—except at occasional intervals, when they were checked by a violent gust of dog which swept up the streets (for it is in an extended metaphor that our scene lies).",
+          "authors": [
+            {
+              "name": "Lucy Petersen",
+              "location": "Brisbane, Australia",
+              "city": "Brisbane",
+              "region": "Australia"
+            }
+          ]
+        }
+      ],
+      "inspiration": {
+        "text": "It was a dark and stormy night; the rain fell in torrents—except at occasional intervals, when it was checked by a violent gust of wind which swept up the streets (for it is in London that our scene lies), rattling along the housetops, and fiercely agitating the scanty flame of the lamps that struggled against the darkness.",
+        "attribution": "Edward Bulwer-Lytton, Paul Clifford"
+      }
+    },
+    {
+      "name": "Fantasy & Horror",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "Sir Arthur Pendragon, High King of the Britons, son of King Uther Pendragon, nephew of King Aurelius Ambrosius, who was in turn the son of a long list of people who weren’t kings and thus don’t matter, only slept with his sister once, but boy did it come back to bite him in the ass.",
+          "authors": [
+            {
+              "name": "Diana Murtaugh",
+              "location": "Baltimore, MD",
+              "city": "Baltimore",
+              "region": "MD"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Harry Potter was a happy eleven-year-old wizard who lived with two kind and supportive parents in Godric's Hollow because his parents hadn't been wimps and they had used the Killing Curse on Voldemort as soon as he stuck his big noseless face in their house.",
+          "authors": [
+            {
+              "name": "Ray Smith",
+              "location": "Crowley, TX",
+              "city": "Crowley",
+              "region": "TX"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Not even my last hope, the herpetologist, was willing to officiate my marriage to my beloved Frog Prince, with his bulging overripe-tomato eyes, covered in milky film not unlike phlegm, his slimy appendages reminiscent of a toddler's sucked-on toes, and his lovely love-bites lovingly laved upon both my fingers and my houseflies without prejudice.",
+          "authors": [
+            {
+              "name": "Sophia Wang",
+              "location": "Nashville, TN",
+              "city": "Nashville",
+              "region": "TN"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Cthulhu awoke from loathsome dreams of gangrenous decay and the foul stench of congealing viscera, lifting his pulpy, misshapen head to find what foolish supplicant had roused him to yet another age of fear and creeping dread, but found his bloodthirst unslaked, having been brought to consciousness not by horror-filled screams of human sacrifice but by his little sister’s overly dramatic wail of “Cthulhu’s touching me!” from her side of the family station wagon’s back seat.",
+          "authors": [
+            {
+              "name": "Eric Williamson",
+              "location": "Nine Mile Falls, WA",
+              "city": "Nine Mile Falls",
+              "region": "WA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Historical Fiction",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "On an otherwise fine spring morning, Helga Tottentanz learned in an exceptionally hard way that, whatever they might’ve told you in hospitality school up in Cologne, as a serving wench in Mainz’s finest inn in 451 A.D., you don’t greet a battle-weary and obviously stressed general named Attila, fresh from crossing the Carpathians at the cost of ten thousand or so men, with an overly cheery “Hi, Hun.”",
+          "authors": [
+            {
+              "name": "G. Andrew Lundberg",
+              "location": "Los Angeles, CA",
+              "city": "Los Angeles",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Zenta the Australopithecine woman gently placed the egg into her homemade reed basket (leaving behind two of her fingers bitten off by the mother Archaeopteryx) and silently wished that one day a harmless, delicious, abundant egg-laying bird would evolve.",
+          "authors": [
+            {
+              "name": "Greg Homer",
+              "location": "San Vito, Costa Rica",
+              "city": "San Vito",
+              "region": "Costa Rica"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "The year was 1302, and Richilde watched as her husband paused his work to take off his tunic, exposing his broad form, sweaty from his laboring in the heat—which would've been so much more exciting if her husband was something cool, like a ripped farmer, instead of a middle-aged balding scribe on his third attempt to write 'phenomenon' correctly.",
+          "authors": [
+            {
+              "name": "Eline Lüschen",
+              "location": "Groningen, The Netherlands",
+              "city": "Groningen",
+              "region": "The Netherlands"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Had Mrs. Reed just offered: \"I could whip up a quick buffalo stew, some corn cakes, and maybe toss together a dandelion salad\" instead of remaining silent, perhaps George Donner never would have followed up his \"Anyone have any thoughts on dinner?\" query with \"Don't be shy—no idea is a bad idea.\"",
+          "authors": [
+            {
+              "name": "Mark Meiches",
+              "location": "Dallas, TX",
+              "city": "Dallas",
+              "region": "TX"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "\"The hell . . . ?\" wondered Dread Lord Atunkhamen, awakening to find his sumptuous sarcophagus transformed into an airtight glass box and his hordes of groveling undead servants into a sea of snotty schoolchildren, bored museum staff, goggling tourists, and an endless sea of faceless smartphones.",
+          "authors": [
+            {
+              "name": "Gwen Simonalle",
+              "location": "Grenoble, France",
+              "city": "Grenoble",
+              "region": "France"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Odious Outliers",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "The road to Hell is paved with good intentions, and it was precisely this questionable choice of paving material, combined with the ongoing flight of middle-class demons from the urban center of Pandaemonium proper to more spacious brimstone-lakefront homes in its suburbs, that had produced the mess of closures, detours, and gridlock that were making Azazel’s commute this morning a living . . . well, you know.",
+          "authors": [
+            {
+              "name": "Alexandro Strauss",
+              "location": "New York, NY",
+              "city": "New York",
+              "region": "NY"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "As we unrolled our sleeping bags, the sickly-sweet notes of the old torch song “Smoke Gets in Your Eyes” played in my mind and the smell of burning chocolate and liqueur wafted in a treacly cloud of smoke from the next campsite, where a vacationing confectioner had lit a smoldering bonbon-fire.",
+          "authors": [
+            {
+              "name": "Bart KingBart King",
+              "location": "Silverton, OR",
+              "city": "Silverton",
+              "region": "OR"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Ralf Smalborgson kept a small shop in Direperil, Minnesota, and his goods consisted only of medieval stringed instruments, lanyards and backstays, and some limited apothecary supplies, giving the store its uninviting signage: Lute, Rope, and Pillage.",
+          "authors": [
+            {
+              "name": "Ciarán McGonagle",
+              "location": "Derry, Northern Ireland",
+              "city": "Derry",
+              "region": "Northern Ireland"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Norman gazed searchingly into Susan's mesmerizing Windex-colored eyes, observing that her left eye was quite lighter than her right, more like a watered-down generic glass cleaner, probably at a dilution ratio of 1:3 which Norman predicted would definitely leave some streaks.",
+          "authors": [
+            {
+              "name": "Leslie Muir",
+              "location": "Atlanta, GA",
+              "city": "Atlanta",
+              "region": "GA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "There were shadowy conspiracists behind every smoking volcano, and in all the dark corners of Washington, and hiding from the harsh glaring sunlight of the High Desert of California, but they were laughably easy prey when the Martian lizard people, the subterranean Vril-empowered mole-men, and the globalist pedophile Commies finally did show up.",
+          "authors": [
+            {
+              "name": "David S Nelson",
+              "location": "Falls Church, VA",
+              "city": "Falls Church",
+              "region": "VA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Harald grew up In a small church in which his parents were unusually active, involving him at an early age with services and potlucks and productions and outreach ministries, and in stark contrast to his best mate Dustin, who grew up in a small veterinary office, in a kennel between a surrendered Rottweiler and a confiscated caiman.",
+          "authors": [
+            {
+              "name": "Jonathan P. Sanford",
+              "location": "Gilbert, IA",
+              "city": "Gilbert",
+              "region": "IA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Purple Prose",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "Hungover, Bethany walked out onto the deck of her Malibu Beach beachhouse, her pimento-less olive-green eyes scouring the sand below like two Brillo pads, while a thundering blitzkrieg continued hammering within her head like demolition wrecking balls repeatedly smashing against concrete walls while accompanied by the deafening salvos of the cannons from the 1812 Overture.",
+          "authors": [
+            {
+              "name": "Robert Wolf",
+              "location": "Pittsburgh, PA",
+              "city": "Pittsburgh",
+              "region": "PA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Vera Windrush, ever the romantic, looked at the sea foam washed up on the shore, and imagined the life of some giant, seafaring marshmallow tragically cut short after being rammed by a Pacific Princess cruise liner.",
+          "authors": [
+            {
+              "name": "Art Ellis",
+              "location": "Ottawa, Canada",
+              "city": "Ottawa",
+              "region": "Canada"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Chardonnay walked in with a swagger that could melt the chrome off a Studebaker (a pre-1954 one prior to the merger with Packard to form the Studebaker-Packard Corporation) and with a hip shrug that told everyone in the room that she meant business (not like the aforementioned failed merger); because she was, after all, the great-great granddaughter of Henry Studebaker (not one of his brothers Clement, John, Peter, or Jacob).",
+          "authors": [
+            {
+              "name": "Scott M. Fitzpatrick",
+              "location": "Eugene, OR",
+              "city": "Eugene",
+              "region": "OR"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "His burnt flesh sizzling like a burger on the grill, blood pouring from his wounds like an overshaken cola, and sweat as salty as French fries pouring down his face, John knew that after this mission was over, he was getting McDonald's for dinner.",
+          "authors": [
+            {
+              "name": "Matthew Holmes",
+              "location": "Doreen, Australia",
+              "city": "Doreen",
+              "region": "Australia"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Stepping outside just after dawn, Chef Billingsworth was pleased to discover that for once the morning fog was not as thick as pea soup—or even lobster bisque for that matter—but was more a chicken velouté, or perhaps a beef remouillage.",
+          "authors": [
+            {
+              "name": "Mark Meiches",
+              "location": "Dallas, TX",
+              "city": "Dallas",
+              "region": "TX"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Alas,\" he thought to himself, careworn eyes flickering over a veritable charcuterie of limp meats festering with metaphor, \"Is bologna simply a hot dog that has lost its backbone, its form, its very ilk—flattened, beaten down into this wretched shape, a mere flicker of what it once was?\"",
+          "authors": [
+            {
+              "name": "Annora McGarry",
+              "location": "Granville, NY",
+              "city": "Granville",
+              "region": "NY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Romance",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "If broken hearts were made of simple syrup, and shattered dreams were made from white rum, and agony and despair came from ¾ ounce of lime juice, freshly squeezed, and three mint leaves respectively, then Mary Lou just served up a mojito cocktail straight from the ninth circle of hell when she told Ricky the baby wasn’t his.",
+          "authors": [
+            {
+              "name": "Tony Buccella",
+              "location": "Allegany, NY",
+              "city": "Allegany",
+              "region": "NY"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "João Diogo Tiogo Pereira decided to walk down the cobblestone streets and past the azulejo-clad building façades to finally ask out the lovely Sara Catarina Custodio da Silva for coffees and pasteis de natas down at the local pasteleria, or maybe vinho do porto in a taberna swelling with fado music, with schist stone walls steeped in centuries of saudad . . . for our story begins in Portugal, which was probably not obvious.",
+          "authors": [
+            {
+              "name": "Jon A. Bell",
+              "location": "Porto, Portugal",
+              "city": "Porto",
+              "region": "Portugal"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Like looking for a missing needle in a haystack (a scenario Belinda had never quite grasped because of the absurdity of having a needle in a haystack in the first place since no one does needlepoint in a barn), the futility of searching for exemplary qualities in her ex left her exhausted and exasperated.",
+          "authors": [
+            {
+              "name": "Ann Franklin",
+              "location": "Lubbock, TX",
+              "city": "Lubbock",
+              "region": "TX"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Harvey’s eyes tracked the undulating sway of Betty’s hips, clad in hot pink leggings, clinging to her voluptuous thighs, each pocket of cellulite like magnetic orbs of fuschia-tinted bubble-wrap drawing him forward; gnarled hands poised to snatch just one glorious pop of forbidden flesh before Nurse Jones whisked him away for cribbage time at the Rough and Ready Nursing Home.",
+          "authors": [
+            {
+              "name": "Debi Hassler",
+              "location": "Central Point, OR",
+              "city": "Central Point",
+              "region": "OR"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Jane Hammerlink’s mane of auburn hair blew in the morning breeze like Seabiscuit’s tail passing the quarter pole; her eyes sparkled like the finest cubic zirconia; and her snow-white apron and ruby-red lipstick gave me a tingling sensation in the extremities that I had theretofore associated only with Flo from Progressive.",
+          "authors": [
+            {
+              "name": "G. Andrew Lundberg",
+              "location": "Los Angeles, CA",
+              "city": "Los Angeles",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "After initially being cold and hard towards Jeremy, Sylvia finally began to thaw, and then slowly started to warm up to him, just a bit at first, but more and more the longer she basked in the heat of his yearning eyes; then, suddenly magically transformed, she became steaming hot for him, melting at his touch, yielding her softness to his hungry hands—and so, he devoured her, savoring her oozing delights and consuming every morsel of her lusciousness—after which Jeremy leaned back, totally sated, and began to consider what he should name his next batch of frozen chocolate chip cookie dough.",
+          "authors": [
+            {
+              "name": "Mark Meiches",
+              "location": "Dallas, TX",
+              "city": "Dallas",
+              "region": "TX"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Her raven hair, ruby lips, sensuous jaw, and luminous pearly teeth would all be perfectly preserved—Jacques desperately hoped—by an expertly honed blade and carefully positioned guillotine basket.",
+          "authors": [
+            {
+              "name": "Mark Watson",
+              "location": "Chapel Hill, NC",
+              "city": "Chapel Hill",
+              "region": "NC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Science Fiction",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "With the long-awaited legalization of human cloning and the availability of goodly amounts of the DNA of its founding fathers, America in 2035 found itself entering a new golden age—one in which Nathan Hale at last had more than one life to give for his country, Benjamin Franklin was on hand to get the freaking Post Office back on the rails, and Alexander Hamilton could finally play himself on Broadway eight shows a week.",
+          "authors": [
+            {
+              "name": "Eline Lüschen",
+              "location": "Groningen, The Netherlands",
+              "city": "Groningen",
+              "region": "The Netherlands"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "P’'gf'th wrestled with the controls of the ancient lightship, unlikely to survive the tachyon storm, but determined to deliver the cargo that would free the people of Cv'nkjh from their aeons-long vowel famine.",
+          "authors": [
+            {
+              "name": "David Hart",
+              "location": "Chesterfield, England",
+              "city": "Chesterfield",
+              "region": "England"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "To help maintain the spirit of the entire Apollo 15 crew during their lengthy and monotonous space journey, NASA scientists sent along fun snacks for everyone, including Space Food Sticks for the Lunar Astronauts and Space Food Milk-Bones for the Lunar Rover.",
+          "authors": [
+            {
+              "name": "Tyler Mercer",
+              "location": "Brighton, Michigan",
+              "city": "Brighton",
+              "region": "Michigan"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "The representatives of the Galactic Explorer Chronozinium committed quite the faux pas among the ghosts when they the landed their zincodozerite powered inter-dimensional cruiser in the pages of the haunted house novel after mistranslating the term séance fiction.",
+          "authors": [
+            {
+              "name": "Emily Ho",
+              "location": "Los Angeles, California",
+              "city": "Los Angeles",
+              "region": "California"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vile Puns",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "\"I do enjoy turning a prophet,\" said Torquemada, as he roasted the heretic seer on a spit.",
+          "authors": [
+            {
+              "name": "A. R. Templeton",
+              "location": "Stratford, Canada",
+              "city": "Stratford",
+              "region": "Canada"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "The Ad Exec licked his Cheops, contemplated his latest pyramid scheme to win this year's advertising award, “I am not in de-nile and deserve a Clio-patra on the back for this and tut tut to anyone who says otherwise.\"",
+          "authors": [
+            {
+              "name": "Peter Buckley",
+              "location": "Rockville, MD",
+              "city": "Rockville",
+              "region": "MD"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Minnie was a short order cook with big ties to organized crime and sought respect within the Family, hoping to impress the Godfather, Don Knotz, with her signature dish, a succulent filet mignon, but the meat was stored on the top shelf of the massive walk-in freezer and, in the end, the steaks were just too high.",
+          "authors": [
+            {
+              "name": "Donald J. Hicks",
+              "location": "Manchester, NJ",
+              "city": "Manchester",
+              "region": "NJ"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "As the sun broke the horizon on the windward coast of Kauai, Dave Barrett, pleased with himself for setting a 5:30 alarm even with the jet lag from the flight out of Newark the day before, parted the drapes and shouted “Dawn ho!,” alarming the legendary Hawaiian lounge singer who was brewing his morning cup of Kona in the condo below him.",
+          "authors": [
+            {
+              "name": "G. Andrew Lundberg",
+              "location": "Los Angeles, CA",
+              "city": "Los Angeles",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "After thousands of years ruling the netherworld, the Devil was starting to show his age . . . and though it honestly didn't bother him that his horns were a bit less pointy, his wings a bit more droopy, and his fangs a bit less sharp—if anyone mentioned he was losing his hair, there would be hell toupee.",
+          "authors": [
+            {
+              "name": "Mark Meiches",
+              "location": "Dallas, TX",
+              "city": "Dallas",
+              "region": "TX"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "\"My laddies may not be the fastest sugar cane harvesters,\" Fergus confessed, \"but they're not as slow as my lasses...\"",
+          "authors": [
+            {
+              "name": "Mark Meiches",
+              "location": "Dallas, TX",
+              "city": "Dallas",
+              "region": "TX"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Western",
+      "entries": [
+        {
+          "award": "Winner",
+          "text": "Even a lone ranger has to adapt to changing times, so with unemployment running below two percent, when Tonto announced that he was finally quitting the pro bono law enforcement game to get his real estate license, the closest an aging John Reid had been able to come to replacing his trusty Indian companion was Ganesh Sarvapindi, a fair shot and a so-so horseman with the annoying habit of referring to his new boss as “kemo sahib.”",
+          "authors": [
+            {
+              "name": "G. Andrew Lundberg",
+              "location": "Los Angeles, CA",
+              "city": "Los Angeles",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Tucker Hughes was a cowboy born and bred—his grandfather free-grazing in the shadow of the Bitterroots, his father homesteading the Bar XZ east of Great Falls, and young Tucker barrel racing and running Angus from his grade-school days —but as he gazed across the prairie on this autumn day in 2031, the now grizzled rancher figured he was finally looking at the end of the American West, all thanks to the gnomes of Silicon Valley and their damned self-driving cattle.",
+          "authors": [
+            {
+              "name": "G. Andrew Lundberg",
+              "location": "Los Angeles, CA",
+              "city": "Los Angeles",
+              "region": "CA"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Fighting injustice in the Southwest Italian dairy cow farming region fell to the cheese-rind masked man of mystery, the Provolone Ranger.",
+          "authors": [
+            {
+              "name": "Mark Meiches",
+              "location": "Dallas, TX",
+              "city": "Dallas",
+              "region": "TX"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Durango knew the townsfolk were all peaceful, simple farmers, knew none of them could shoot a gun, knew Chaga's murderous gang was on its way, and knew defeating them was all but hopeless—but Durango also knew he had to stay, because he was moral, and he was brave, and he wasn't very bright.",
+          "authors": [
+            {
+              "name": "Mark Meiches",
+              "location": "Dallas, TX",
+              "city": "Dallas",
+              "region": "TX"
+            }
+          ]
+        },
+        {
+          "award": "Dishonorable Mentions",
+          "text": "Jump to:",
+          "authors": [
+            {
+              "name": "Join our mailing list"
+            }
+          ]
+        }
+      ],
+      "misc": "to get our yearly announcement"
+    }
+  ]
+}

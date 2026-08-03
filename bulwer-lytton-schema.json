@@ -1,0 +1,183 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://www.bulwer-lytton.com/schemas/winners.schema.json",
+  "title": "Bulwer-Lytton Fiction Contest — Yearly Winners",
+  "description": "Archival record of the winners, runners-up, and dishonorable mentions of a single year of the Bulwer-Lytton Fiction Contest. One JSON document represents one contest year.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["year", "categories"],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Optional pointer to this schema so editors can validate the instance."
+    },
+    "year": {
+      "type": "integer",
+      "description": "The contest year, taken from the page's body content rather than its <title>. NOTE: some archived pages have a mismatched <title> (e.g. the 2010 page is titled '2011 Winners'); prefer the '<year> Grand Prize' heading in the body.",
+      "minimum": 1982,
+      "maximum": 2100
+    },
+    "source": {
+      "type": "object",
+      "description": "Provenance of this record, so the archive can be re-derived or audited.",
+      "additionalProperties": false,
+      "properties": {
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Canonical live URL the data was captured from, if known."
+        },
+        "file": {
+          "type": "string",
+          "description": "Path/filename of the archived HTML this record was extracted from (e.g. 'www_bulwer-lytton_com/2010.html')."
+        },
+        "pageTitle": {
+          "type": "string",
+          "description": "The raw <title> of the archived page, captured verbatim even when it disagrees with `year` (e.g. '2011 Winners | The Bulwer-Lytton Fiction Contest' on the 2010 page)."
+        },
+        "retrievedAt": {
+          "type": "string",
+          "format": "date",
+          "description": "Date the archived copy was captured (ISO 8601)."
+        }
+      }
+    },
+    "categories": {
+      "type": "array",
+      "description": "Ordered list of award categories as they appear on the page. Grand Prize and other special awards are modeled as categories so every heading is represented uniformly.",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/category" }
+    },
+    "misc": {
+      "type": "string",
+      "description": "Catch-all for any extra year-level data that doesn't fit the other fields, stored as a free-form string."
+    }
+  },
+  "$defs": {
+    "category": {
+      "type": "object",
+      "description": "A single award category (e.g. 'Grand Prize', 'Adventure', 'Dark & Stormy'). Category names change from year to year, so `name` is a free string rather than an enum.",
+      "additionalProperties": false,
+      "required": ["name", "entries"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Category heading exactly as shown.",
+          "examples": [
+            "Grand Prize",
+            "Grand Prize Runner Up",
+            "Grand Panjandrum's Special Award",
+            "Adventure",
+            "Children's Literature",
+            "Crime & Detective",
+            "Dark & Stormy",
+            "Fantasy",
+            "Fantasy & Horror",
+            "Historical Fiction",
+            "Odious Outliers",
+            "Purple Prose",
+            "Romance",
+            "Science Fiction",
+            "Vile Puns",
+            "Western"
+          ]
+        },
+        "inspiration": {
+          "type": "object",
+          "description": "Optional non-contest passage shown with the category — notably the original Edward Bulwer-Lytton opening line from 'Paul Clifford' displayed under the 'Dark & Stormy' category. This is source material, not a contest entry.",
+          "additionalProperties": false,
+          "required": ["text"],
+          "properties": {
+            "text": {
+              "type": "string",
+              "minLength": 1,
+              "description": "The verbatim passage."
+            },
+            "attribution": {
+              "type": "string",
+              "description": "Who/what it is attributed to, e.g. 'Edward Bulwer-Lytton, Paul Clifford'."
+            }
+          }
+        },
+        "entries": {
+          "type": "array",
+          "description": "The contest entries within this category, in display order.",
+          "items": { "$ref": "#/$defs/entry" }
+        },
+        "misc": {
+          "type": "string",
+          "description": "Catch-all for any extra category-level data that doesn't fit the other fields, stored as a free-form string."
+        }
+      }
+    },
+    "entry": {
+      "type": "object",
+      "description": "A single contest entry: the submitted sentence plus its author(s) and award designation.",
+      "additionalProperties": false,
+      "required": ["award", "text", "authors"],
+      "properties": {
+        "award": {
+          "type": "string",
+          "minLength": 1,
+          "description": "The entry's designation within its category. Kept as a free string because tiers vary by year; common values are listed in `examples`.",
+          "examples": [
+            "Grand Prize",
+            "Grand Prize Runner Up",
+            "Grand Panjandrum's Special Award",
+            "Winner",
+            "Runner Up",
+            "Dishonorable Mention"
+          ]
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1,
+          "description": "The verbatim opening sentence submitted, preserving original punctuation, ellipses, and typos."
+        },
+        "authors": {
+          "type": "array",
+          "description": "One or more authors credited for the entry (collaborations list more than one).",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/author" }
+        },
+        "notes": {
+          "type": "string",
+          "description": "Optional curator note for anything unusual (ambiguous attribution, OCR/parse uncertainty, duplicated author line in source, etc.)."
+        },
+        "misc": {
+          "type": "string",
+          "description": "Catch-all for any extra entry-level data that doesn't fit the other fields, stored as a free-form string."
+        }
+      }
+    },
+    "author": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name"],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Author's name as credited, e.g. 'Lawrence Person'."
+        },
+        "location": {
+          "type": "string",
+          "description": "Location string as credited, typically 'City, ST' (US) or 'City, Country', e.g. 'Austin, TX' or 'Bromma, Sweden'."
+        },
+        "city": {
+          "type": "string",
+          "description": "Optional parsed city."
+        },
+        "region": {
+          "type": "string",
+          "description": "Optional parsed state/province/country portion following the city, e.g. 'TX', 'Sweden'."
+        },
+        "misc": {
+          "type": "string",
+          "description": "Catch-all for any extra author-level data that doesn't fit the other fields, stored as a free-form string."
+        }
+      }
+    }
+  }
+}
